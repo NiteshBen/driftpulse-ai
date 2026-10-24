@@ -1,0 +1,16 @@
+{
+  "p_value_alpha": 0.05,
+  "psi_warning": 0.10,
+  "psi_critical": 0.25,
+  "wasserstein_threshold": 0.15,
+  "jensen_shannon_threshold": 0.10,
+  "tvd_threshold": 0.15,
+  "cosine_distance_threshold": 0.12,
+  "z_score_threshold": 2.0,
+  "oov_rate_threshold": 0.05,
+  "dataset_drift_share_threshold": 0.33,
+  "missing_rate_delta_threshold": 0.10,
+  "default_numerical_metric": "psi",
+  "default_categorical_metric": "chi_square",
+  "feature_overrides": {}
+}
